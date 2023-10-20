@@ -1,6 +1,6 @@
 # Analysis-of-Medical-Students-Dataset-of-College-of-Medicine-YK.
 ---
-![](Med_student.jpg)
+![](Med_student_.jpg)
 
 ---
 ## Introduction
@@ -20,17 +20,18 @@ These acquired insights were further displayed with various visualization tools 
 
 ## Result of Analysis
 -	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
-This was determined using the AVERAGE function in the pivot table for each criteria/attribute.
+This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute.
 
  ![](All_averages_.png)  ![](All_Averages.png)
-
-Analysis Insight: 
-
+ 
+ ---
 -	Average Height and Weight by Gender.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
-Screenshot/visuals
-Analysis Insight: 
+This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the gender in the "Row" field.
 
+![](Gender.png)  ![](Gender_.png) 
+
+
+---
 -	Number of Students by Blood Type.
 This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
 Screenshot/visuals
@@ -42,7 +43,9 @@ Analysis Insight:
 -	Number of Students who have diabetes and those who don’t.
 This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
 Screenshot/visuals
-Analysis Insight: 
+
+
+## Analysis Insights
 
 Conclusion
 Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK and further insights can still be generated from the data, which will be useful for stakeholders to make informed decisions.
