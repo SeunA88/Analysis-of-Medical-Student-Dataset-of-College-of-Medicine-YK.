@@ -22,13 +22,13 @@ These acquired insights were further displayed with various visualization tools 
 -	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute.
 
- ![](All_averages_.png)  ![](All_Averages.png)
+ ![](All_averages_.png)    ![](All_Averages.png)
  
  ---
 -	Average Height and Weight by Gender.
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the gender in the "Row" field.
 
-![](Gender.png)  ![](Gender_.png) 
+![](Gender.png)                           ![](Gender_.png) 
 
 
 ---
