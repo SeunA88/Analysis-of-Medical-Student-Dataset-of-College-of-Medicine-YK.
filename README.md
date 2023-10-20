@@ -46,7 +46,7 @@ Analysis Insight:
 -	Number of Students who smoke and those who don’t.
 This was determined using the COUNT function in the pivot table "Value" field for number of students, with the Smoking data in the "Row" field. A Doughnut chart was used to visualize the insight.
 
-![](Smoking.pnp) ![](Smoking_.png)
+![](Smoking_.png) ![](Smoking.png)
 
 ---
 Analysis Insight: 
@@ -54,7 +54,7 @@ Analysis Insight:
 -	Number of Students who have diabetes and those who don’t.
 This was determined using the COUNT function in the pivot table "Value" field for number of students, with the Diabetes data in the "Row" field. A Doughnut chart was also used to visualize the insight.
 
-![](Diabetes.png) ![](Diabetes_.png)
+![](Diabetes_.png) ![](Diabetes.png)
 
 ---
 Analysis Insights: 
