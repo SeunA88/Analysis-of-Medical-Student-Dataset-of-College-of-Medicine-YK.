@@ -1,4 +1,4 @@
-# Analysis-of-Medical-Students-Dataset-of-College-of-Medicine-,YK.
+# Analysis of Medical Students Dataset of College of Medicine,YK.
 ---
 ![](Med_student_.jpg)
 
