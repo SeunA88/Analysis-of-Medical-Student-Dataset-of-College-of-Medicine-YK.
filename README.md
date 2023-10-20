@@ -37,7 +37,7 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 
 ![](Gender.png) ![](Gender_.png)
                  
-**Analysis Insight**: From this analysis, it can be observed that the female and male genders have an almost equal  average height, and weight, compared to the males
+**Analysis Insight**: From this analysis, it can be observed that the female and male genders have an almost equal average height (Female: 174.93, Male: 174.97) and weight (Female: 69.96, Male: 69.98).
 
 ----
 
