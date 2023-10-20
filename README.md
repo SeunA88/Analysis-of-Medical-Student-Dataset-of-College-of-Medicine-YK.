@@ -73,5 +73,5 @@ This was determined using the COUNT function in the pivot table "Value" field fo
 ---
 
 ## Conclusion
-Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK which will give rise to a better understanding of the students' profile and help the student administrators to make meaningfull and informed decisions.
+Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK which will give rise to a better understanding of the students' profile and help the student administrators to make meaningful and informed decisions.
 
