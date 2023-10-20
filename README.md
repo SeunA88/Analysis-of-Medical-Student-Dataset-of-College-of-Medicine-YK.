@@ -28,12 +28,12 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 -	Average Height and Weight by Gender.
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the gender in the "Row" field.
 
-![](Gender.png)                           ![](Gender_.png) 
-
-
+![](Gender.png)    ![](Gender_.png) 
+                  
 ---
 -	Number of Students by Blood Type.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
+This was determined using the COUNT function in the pivot table "Value" field for number of students, with the blood type in the "Row" field.
+
 Screenshot/visuals
 Analysis Insight: 
 -	Number of Students who smoke and those who don’t.
