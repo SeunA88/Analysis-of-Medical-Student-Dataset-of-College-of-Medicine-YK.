@@ -22,6 +22,7 @@ These acquired insights were further displayed with various visualization tools 
 
 ## Result of Analysis
 -	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
+
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute. A column chart was used to visualize all the insights generated from this analysis.
 
  ![](All_averages_.png) ![](All_Averages.png)
@@ -31,6 +32,7 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 --- 
 
 -	Average Height and Weight by Gender.
+
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the gender in the "Row" field. A Column chart was used to visualize the insight generated.
 
 ![](Gender.png) ![](Gender_.png) 
@@ -39,6 +41,7 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 Analysis Insight: 
 
 -	Number of Students by Blood Type.
+
 This was determined using the COUNT function in the pivot table "Value" field for number of students, with the blood type in the "Row" field. A Column chart was used to view the generated insight.
 
 ![](Blood_types.png) ![](Blood_type.png)
@@ -48,6 +51,7 @@ This was determined using the COUNT function in the pivot table "Value" field fo
 ---
 
 -	Number of Students who smoke and those who don’t.
+
 This was determined using the COUNT function in the pivot table "Value" field for number of students, with the Smoking data in the "Row" field. A Doughnut chart was used to visualize the insight.
 
 ![](Smoking_.png) ![](Smoking.png)
@@ -57,6 +61,8 @@ This was determined using the COUNT function in the pivot table "Value" field fo
 ---
 
 -	Number of Students who have diabetes and those who don’t.
+
+
 This was determined using the COUNT function in the pivot table "Value" field for number of students, with the Diabetes data in the "Row" field. A Doughnut chart was also used to visualize the insight.
 
 ![](Diabetes_.png) ![](Diabetes.png)
