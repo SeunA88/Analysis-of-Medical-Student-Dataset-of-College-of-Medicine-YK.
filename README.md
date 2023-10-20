@@ -1,1 +1,1 @@
-# Analysis-of-Medical-Student-Dataset-of-College-of-Medicine-YK.
+# Analysis-of-Medical-Students-Dataset-of-College-of-Medicine-YK.
