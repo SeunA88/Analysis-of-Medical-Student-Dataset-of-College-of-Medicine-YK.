@@ -37,8 +37,9 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 
 ![](Gender.png) ![](Gender_.png) 
                   
----
-Analysis Insight: 
+**Analysis Insight**: From this analysis, it can be observed that the female and male genders have an almost equal  average height, and weight, compared to the males
+
+----
 
 -	Number of Students by Blood Type.
 
