@@ -35,8 +35,8 @@ This was determined using the AVERAGE function in the pivot table "Value" field 
 
 This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the gender in the "Row" field. A Column chart was used to visualize the insight generated.
 
-![](Gender.png) ![](Gender_.png) 
-                  
+![](Gender.png) ![](Gender_.png)
+                 
 **Analysis Insight**: From this analysis, it can be observed that the female and male genders have an almost equal  average height, and weight, compared to the males
 
 ----
