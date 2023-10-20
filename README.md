@@ -1,4 +1,4 @@
-# Analysis-of-Medical-Students-Dataset-of-College-of-Medicine-YK.
+# Analysis-of-Medical-Students-Dataset-of-College-of-Medicine-,YK.
 ---
 ![](Med_student_.jpg)
 
@@ -20,33 +20,45 @@ These acquired insights were further displayed with various visualization tools 
 
 ## Result of Analysis
 -	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
-This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute.
+This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute. A column chart was used to visualize all the insights generated from this analysis.
 
- ![](All_averages_.png)    ![](All_Averages.png)
+ ![](All_averages_.png) ![](All_Averages.png)
  
  ---
+ Analysis Insight:
+ 
 -	Average Height and Weight by Gender.
-This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the gender in the "Row" field.
+This was determined using the AVERAGE function in the pivot table "Value" field for each criteria/attribute, with the gender in the "Row" field. A Column chart was used to visualize the insight generated.
 
-![](Gender.png)    ![](Gender_.png) 
+![](Gender.png) ![](Gender_.png) 
                   
 ---
+Analysis Insight: 
+
 -	Number of Students by Blood Type.
-This was determined using the COUNT function in the pivot table "Value" field for number of students, with the blood type in the "Row" field.
+This was determined using the COUNT function in the pivot table "Value" field for number of students, with the blood type in the "Row" field. A Column chart was used to view the generated insight.
 
-Screenshot/visuals
+![](Blood_types.png) ![](Blood_type.png)
+
+---
 Analysis Insight: 
+
 -	Number of Students who smoke and those who don’t.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
-Screenshot/visuals
+This was determined using the COUNT function in the pivot table "Value" field for number of students, with the Smoking data in the "Row" field. A Doughnut chart was used to visualize the insight.
+
+![](Smoking.pnp) ![](Smoking_.png)
+
+---
 Analysis Insight: 
+
 -	Number of Students who have diabetes and those who don’t.
-This was determined using the SUM function on the sales column “=SUM(A2:A701)” for total revenue and “=SUM(L2:L701)” for total profit generated on the profit column.
-Screenshot/visuals
+This was determined using the COUNT function in the pivot table "Value" field for number of students, with the Diabetes data in the "Row" field. A Doughnut chart was also used to visualize the insight.
 
+![](Diabetes.png) ![](Diabetes_.png)
 
-## Analysis Insights
+---
+Analysis Insights: 
 
-Conclusion
-Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK and further insights can still be generated from the data, which will be useful for stakeholders to make informed decisions.
+## Conclusion
+Using pivot table and charts in Excel, insights have been generated from Medical Student Dataset of College of Medicine, YK which will give rise to a better understanding of the students' profile and help the student administrators to make meaningfull and informed decisions.
 
