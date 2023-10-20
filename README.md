@@ -22,8 +22,7 @@ These acquired insights were further displayed with various visualization tools 
 -	Average Cholesterol, Heart rate, Blood pressure, Age, Temperature, BMI, Weight, and Height of students.
 This was determined using the AVERAGE function in the pivot table for each criteria/attribute.
 
-![](All_averages.png) 
-![](All_averages_.png)
+![](All_Averages.png) | 
 
 Analysis Insight: 
 
